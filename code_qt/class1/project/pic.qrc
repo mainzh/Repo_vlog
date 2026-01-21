@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/deng.png</file>
+        <file>pic/kaiguan.png</file>
+        <file>pic/shezhi.png</file>
+        <file>pic/Snipaste_2025-08-12_09-25-16.jpg</file>
+    </qresource>
+</RCC>
